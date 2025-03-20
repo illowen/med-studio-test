@@ -1,0 +1,9 @@
+<svg width="132.584473" height="132.584473" viewBox="0 0 132.584 132.584" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<rect id="Play Button (Medium)" rx="0.000000" width="131.790543" height="131.790543" transform="translate(0.396959 0.396959)" fill="#FFFFFF" fill-opacity="0"/>
+	<path id="White" d="M100.03 32.54C81.38 13.9 51.2 13.89 32.54 32.54C13.9 51.19 13.89 81.38 32.54 100.03C51.19 118.68 81.38 118.68 100.03 100.03C118.68 81.38 118.68 51.2 100.03 32.54Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Play Button" d="M113.15 19.42C87.25 -6.48 45.33 -6.48 19.42 19.42C-6.48 45.32 -6.48 87.25 19.42 113.15C45.32 139.05 87.25 139.06 113.15 113.15C139.05 87.25 139.06 45.33 113.15 19.42ZM86.22 70.58L61.33 89.94C57.8 92.69 52.55 90.2 52.55 85.64L52.55 46.93C52.55 42.41 57.76 39.86 61.33 42.63L86.22 61.99C89.02 64.17 89.02 68.41 86.22 70.58Z" fill="#252D33" fill-opacity="1.000000" fill-rule="nonzero"/>
+</svg>

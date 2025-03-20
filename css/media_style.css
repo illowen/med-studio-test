@@ -1,0 +1,152 @@
+@media screen and (max-width: 2300px) {
+
+}
+
+@media screen and (max-width: 1535px) {
+
+
+}
+
+@media screen and (max-width: 1440px) {
+
+}
+
+@media screen and (max-width: 1370px) {
+
+}
+
+@media screen and (max-width: 1280px) {
+
+}
+
+
+@media screen and (max-width: 1178px) {
+    .header .menu_mob_btn {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        row-gap: 5px;
+        width: 24px;
+        height: 24px;
+    }
+    .header .menu_mob_btn span {
+        display: block;
+        width: 20px;
+        height: 2px;
+        border-radius: 4px;
+        background: #ffffff;
+        transition: all 0.2s linear;
+    }
+
+    .menu_mob_close {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        row-gap: 5px;
+        width: 44px;
+        height: 44px;
+        background: #231F20;
+        border-radius: 10px;
+        z-index: 8;
+    }
+
+    .header .menu_mob_close span {
+        display: block;
+        width: 16px;
+        height: 1px;
+        background: #ffffff;
+        transition: all 0.2s linear;
+    }
+    .header .menu_mob_close span:nth-child(1) {
+        transform: rotate(45deg) translate(2px, 2px);
+    }
+    .header .menu_mob_close span:nth-child(2) {
+        transform: rotate(-45deg) translate(2px, -2px);
+    }
+
+    .header .menu_wrap {
+        position: absolute;
+        top: -40px;
+        left: 0;
+        background: rgba(0, 0, 0, 0.47);
+        width: 100%;
+        height: 100vh;
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.2s linear;
+    }
+
+    .header .menu_wrap.active {
+        visibility: visible;
+        opacity: 1;
+        z-index: 5;
+    }
+
+    .header .menu {
+        position: relative;
+        right: 100%;
+        flex-direction: column;
+        width: 367px;
+        height: 100%;
+        padding: 104px 20px 20px;
+        background: #ffffff;
+        z-index: 10;
+        transition: all 0.4s linear;
+    }
+    .header .active .menu {
+        right: 0;
+    }
+
+    .header .menu a {
+        display: block;
+        padding: 10px 0;
+        font-size: 18px;
+        color: #222222;
+        width: 100%;
+    }
+}
+
+
+@media screen and (max-width: 1024px) {
+}
+
+@media screen and (max-width: 991px) {
+
+}
+
+@media screen and (max-width: 840px) {
+
+}
+
+@media screen and (max-width: 769px) {
+
+}
+ 
+@media screen and (max-width: 600px) {
+
+}
+
+@media screen and (max-width: 587px) {
+
+}
+
+@media screen and (max-width: 440px) {
+
+}
+
+@media screen and (max-width: 390px) {
+
+}
+@media screen and (max-width: 360px) {
+
+}
+
+@media screen and (max-width: 330px) {
+
+}
